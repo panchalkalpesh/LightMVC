@@ -1,8 +1,8 @@
-php-mvc
+LightMVC
 =======
 
 
-Project is called as LightMVC. 
+Project is called as **LightMVC**. 
 
 
 Intial version started with v 0.1
